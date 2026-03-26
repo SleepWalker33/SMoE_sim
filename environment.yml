@@ -1,0 +1,12 @@
+name: mmlab
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8
+  - torchaudio
+  - pyyaml
+  - git
+  - optuna
+  - xgboost
+prefix: /userhome/home/yangdandan/anaconda3/envs/mmlab
